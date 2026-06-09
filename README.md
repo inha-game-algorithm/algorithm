@@ -10,8 +10,8 @@
 
 ### 💻 학습 진행
 
-1. 취침 전 익일 문제를 당번이 Issue에 업데이트.
-   - 당번 순서 : 김민성 > 
+1. 취침 전 일주일에 한번씩 문제를 당번이 Issue에 업데이트.
+   - 당번 순서 : 김민성 > 김진욱 > 이승호 > 고명진 > 이세훈
    - 출제 범위 : <[프로그래머스](https://programmers.co.kr/)> LV1 ~ LV4 | <[코드트리](https://www.codetree.ai/training-field/frequent-problems)> 삼성기출문제 위주 | <[SWEA](https://swexpertacademy.com/main/main.do)> D2 이상 | <[릿코드](https://leetcode.com/problemset/)> 
 2. 이후 개인 브랜치에서 문제 풀이 진행.
 3. 제출된 문제 사이트 폴더 내의 `문제 이름 폴더` 생성.
@@ -68,7 +68,7 @@ main
 <br> 
 
 ### 📃 코드리뷰
-- 매주 1회 진행하며, 한 주 내 진행한 문제 리뷰.
+- 매주 수요일 1회 진행하며, 한 주 내 진행한 문제 리뷰.
 - 해결하지 못한 문제 혹은 풀이 방법을 공유.
 - 리뷰가 종료되면, Pull Request로 Merge합니다.
 - 양식 : `[N주차] 문제풀이`
